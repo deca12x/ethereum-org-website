@@ -1,5 +1,23 @@
 [
   {
+    "title": "ETHRome",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-19",
+    "href": "https://www.ethrome.org/",
+    "location": "Rome, Italy",
+    "description": "3rd edition of the best Italian hackathon experience",
+    "imageUrl": "https://www.ethrome.org/img/photogallery/2024/_PLG2938.avif"
+  },
+  {
+    "title": "Urbe Village",
+    "startDate": "2025-10-05",
+    "endDate": "2025-10-19",
+    "href": "https://urbe.build/village",
+    "location": "Rome, Italy",
+    "description": "Urbe Village, 2-week gathering in Rome for Web3 builders",
+    "imageUrl": "https://framerusercontent.com/images/9M06yp69I4EdTKTBwAx2wwtTWmg.jpg?scale-down-to=1024"
+  },
+  {
     "title": "ETHDenver",
     "startDate": "2025-02-23",
     "endDate": "2025-03-02",
